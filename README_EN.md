@@ -4,7 +4,7 @@
 
 **PURSUE — Presidential Unsealing and Reporting System for UAP Encounters**
 
-[![Total Files](https://img.shields.io/badge/Total%20Files-130-blue?style=flat-square&logo=files)](https://www.war.gov/UFO/)  [![Backed Up](https://img.shields.io/badge/Backed%20Up-102%20files-brightgreen?style=flat-square&logo=github)](https://github.com/BruceLanLan/uap-declassified-2026/tree/master/files)  [![Source](https://img.shields.io/badge/Source-war.gov%2FUFO-red?style=flat-square&logo=us)](https://www.war.gov/UFO/)  [![Release Date](https://img.shields.io/badge/Release%20Date-2026--05--08-orange?style=flat-square)](https://www.war.gov/UFO/)
+[![Total Files](https://img.shields.io/badge/Total%20Files-161-blue?style=flat-square&logo=files)](https://www.war.gov/UFO/)  [![Backed Up](https://img.shields.io/badge/Backed%20Up-111%20files-brightgreen?style=flat-square&logo=github)](https://github.com/BruceLanLan/uap-declassified-2026/tree/master/files)  [![Source](https://img.shields.io/badge/Source-war.gov%2FUFO-red?style=flat-square&logo=us)](https://www.war.gov/UFO/)  [![Release Date](https://img.shields.io/badge/Release%20Date-2026--05--08-orange?style=flat-square)](https://www.war.gov/UFO/)
 
 Pursuant to President Trump's February 19, 2026 directive, the U.S. Department of War publicly released  
 the first batch of declassified UAP records (Release 01) on May 8, 2026.  
@@ -21,8 +21,8 @@ Mirrored by [BruceLanLan](https://github.com/BruceLanLan) for global research ac
 | Agency | Files | Time Span | Content Type |
 | :--- | :---: | :---: | :--- |
 | 🔵 FBI | 57 | 1947 — 2026 | Historical UFO case files, modern witness statements, photo evidence |
-| 🟢 Dept. of War (DOW) | 52 | 2016 — 2025 | Military mission reports (MISREP), pilot debriefs, email correspondence |
-| 🟠 NASA | 14 | 1969 — 1973 | Apollo 11/12/17 & Skylab astronaut communications and technical debriefs |
+| 🟢 Dept. of War (DOW) | 82 | 2016 — 2025 | Military mission reports (MISREP), pilot debriefs, email correspondence |
+| 🟠 NASA | 15 | 1969 — 1973 | Apollo 11/12/17 & Skylab astronaut communications and technical debriefs |
 | 🟣 State Dept. | 7 | 1985 — 2001 | Diplomatic cables from Papua New Guinea, Kazakhstan, Georgia |
 
 > 📥 = Backed up in this repo, direct download available　　🔗 = Links to original file on war.gov

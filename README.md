@@ -4,7 +4,7 @@
 
 **PURSUE — Presidential Unsealing and Reporting System for UAP Encounters**
 
-[![档案总数](https://img.shields.io/badge/档案总数-130%20份-blue?style=flat-square&logo=files)](https://www.war.gov/UFO/)  [![已备份](https://img.shields.io/badge/已备份至本库-102%20份-brightgreen?style=flat-square&logo=github)](https://github.com/BruceLanLan/uap-declassified-2026/tree/master/files)  [![来源](https://img.shields.io/badge/来源-war.gov%2FUFO-red?style=flat-square&logo=us)](https://www.war.gov/UFO/)  [![发布日期](https://img.shields.io/badge/发布日期-2026--05--08-orange?style=flat-square)](https://www.war.gov/UFO/)
+[![档案总数](https://img.shields.io/badge/档案总数-161%20份-blue?style=flat-square&logo=files)](https://www.war.gov/UFO/)  [![已备份](https://img.shields.io/badge/已备份至本库-111%20份-brightgreen?style=flat-square&logo=github)](https://github.com/BruceLanLan/uap-declassified-2026/tree/master/files)  [![来源](https://img.shields.io/badge/来源-war.gov%2FUFO-red?style=flat-square&logo=us)](https://www.war.gov/UFO/)  [![发布日期](https://img.shields.io/badge/发布日期-2026--05--08-orange?style=flat-square)](https://www.war.gov/UFO/)
 
 依据特朗普总统 2026 年 2 月 19 日指令，美国战争部于 2026 年 5 月 8 日公开发布首批解密 UAP 档案（Release 01）。  
 本仓库由 [BruceLanLan](https://github.com/BruceLanLan) 整理镜像，方便全球研究者访问原始文件。
@@ -20,8 +20,8 @@
 | 机构 | 数量 | 时间跨度 | 内容类型 |
 | :--- | :---: | :---: | :--- |
 | 🔵 FBI | 57 份 | 1947 — 2026 | 历史 UFO 调查档案、现代目击陈述、照片证据 |
-| 🟢 战争部（DOW） | 52 份 | 2016 — 2025 | 军事任务报告（MISREP）、飞行员汇报、邮件往来 |
-| 🟠 NASA | 14 份 | 1969 — 1973 | 阿波罗 11/12/17 号、天空实验室宇航员通讯记录 |
+| 🟢 战争部（DOW） | 82 份 | 2016 — 2025 | 军事任务报告（MISREP）、飞行员汇报、邮件往来 |
+| 🟠 NASA | 15 份 | 1969 — 1973 | 阿波罗 11/12/17 号、天空实验室宇航员通讯记录 |
 | 🟣 国务院 | 7 份 | 1985 — 2001 | 巴布亚新几内亚、哈萨克斯坦、格鲁吉亚外交电报 |
 
 > 📥 = 已备份至本仓库，可直接下载　　🔗 = 链接至 war.gov 原始文件
