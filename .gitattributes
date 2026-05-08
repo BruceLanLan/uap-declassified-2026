@@ -5,3 +5,6 @@ files/65_hs1-834228961_62-hq-83894_section_1.pdf filter=lfs diff=lfs merge=lfs -
 files/65_hs1-834228961_62-hq-83894_section_8.pdf filter=lfs diff=lfs merge=lfs -text
 files/65_hs1-834228961_62-hq-83894_serial_130.pdf filter=lfs diff=lfs merge=lfs -text
 files/65_hs1-834228961_62-hq-83894_section_6.pdf filter=lfs diff=lfs merge=lfs -text
+files/65_hs1-834228961_62-hq-83894_section_2.pdf filter=lfs diff=lfs merge=lfs -text
+files/65_hs1-834228961_62-hq-83894_section_10.pdf filter=lfs diff=lfs merge=lfs -text
+files/18_6369445_general_1948_vol_1.pdf filter=lfs diff=lfs merge=lfs -text
