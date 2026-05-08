@@ -226,6 +226,16 @@
 
 **免责声明**　本仓库仅作存档和研究用途，所有文件版权归美国政府所有。
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=brucelanlan%2Fuap-declassified-2026&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=brucelanlan/uap-declassified-2026&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=brucelanlan/uap-declassified-2026&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=brucelanlan/uap-declassified-2026&type=timeline&legend=top-left" />
+ </picture>
+</a>
+
 ---
 
 <div align="center">
