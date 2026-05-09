@@ -226,11 +226,6 @@
 
 **免责声明**　本仓库仅作存档和研究用途，所有文件版权归美国政府所有。
 
-## 深入研究与分析
-
-- [UAP 深度分析报告：从目击到物理边界](uap_deep_analysis.md)
-- [Bruce 畅想：如果 UAP 不是飞行器，而是一种"环境"？](docs/bruce_uap_vision.md)
-
 ## Star History
 
 ---
