@@ -243,3 +243,8 @@
 [⬆ 回到顶部](#) &nbsp;·&nbsp; [English →](README_EN.md) &nbsp;·&nbsp; [war.gov/UFO →](https://www.war.gov/UFO/)
 
 </div>
+
+## 深入研究与分析
+
+- [UAP 深度分析报告：从目击到物理边界](uap_deep_analysis.md)
+- [Bruce 畅想：如果 UAP 不是飞行器，而是一种“环境”？](docs/bruce_uap_vision.md)
